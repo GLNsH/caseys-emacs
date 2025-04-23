@@ -1,0 +1,22 @@
+{
+  "name": "caseys-emacs",
+  "displayName": "casey's emacs",
+  "description": "Casey Muratori's Emacs Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Casey's Emacs Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Casey's Emacs Theme-color-theme.json"
+      }
+    ]
+  }
+  
+}
