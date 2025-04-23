@@ -2,7 +2,7 @@
 	"name": "Casey's Emacs Theme",
 	"colors": {
         "editor.background": "#161616",
-        "editor.foreground": "#cdaa7d",
+        "editor.foreground": "#ffffff",
         "editorCursor.foreground": "#40FF40",
         "editor.lineHighlightBackground": "#191970",
         "editor.selectionBackground": "#191970",
